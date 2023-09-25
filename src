@@ -1,3 +1,4 @@
+function()
 local remote =  game:GetService("ReplicatedStorage").DeleteCar
 local Tool = Instance.new("Tool",game.Players.LocalPlayer.Backpack)
 local Equipped = false
